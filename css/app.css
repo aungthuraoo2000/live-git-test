@@ -11118,5 +11118,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.bg {
+  background-color: #2d6cdf;
+}
+
+.bg-1 {
+  background-color: #f3f169;
+}
 
 /*# sourceMappingURL=app.css.map */
